@@ -13,7 +13,7 @@ Projet pédagogique BTS SIO SLAM : adaptation basketball de l'énoncé « Projet
 - Membre 2 (binôme) : pas encore précisé — fonctionnalités à préciser
 
 ## Publication (à compléter)
-- Dépôt GitHub : [URL]
+- Dépôt GitHub : [https://github.com/sparshauddin069/BasketShop.git]
 - Site GitHub Pages : [URL]
 
 ## Collaboration GitHub
