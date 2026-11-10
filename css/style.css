@@ -728,16 +728,3 @@ address {
         gap: 12px;
     }
 }
-
-/* ==============================
-   IMAGE BALLON STREET PRO
-   ============================== */
-
-.image-street-pro {
-    width: 100%;
-    max-width: 280px;
-    height: auto;
-    object-fit: contain;
-    display: block;
-    margin: auto;
-}
